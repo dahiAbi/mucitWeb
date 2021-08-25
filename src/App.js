@@ -12,7 +12,7 @@ function App() {
     }
     getDate();
   }, []);
-  return <h1>salam</h1>;
+  return <h1>salam aga</h1>;
 }
 
 export default App;
