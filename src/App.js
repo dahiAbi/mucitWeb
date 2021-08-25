@@ -12,7 +12,7 @@ function App() {
     }
     getDate();
   }, []);
-  return <h1>salam Gardas</h1>;
+  return <h1>salam Gardasa</h1>;
 }
 
 export default App;
