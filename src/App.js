@@ -12,7 +12,25 @@ function App() {
     }
     getDate();
   }, []);
-  return <h1>salammmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm</h1>;
+  return (
+    <div>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+      <h1>salam</h1>
+    </div>
+  );
 }
 
 export default App;
