@@ -15,20 +15,6 @@ function App() {
   return (
     <div>
       <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>salam</h1>
-      <h1>sala </h1>
     </div>
   );
 }
